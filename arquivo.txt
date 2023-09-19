@@ -1,0 +1,9 @@
+<a href="cadastro.php">Voltar para a página anterior</a><br>
+<a class="logout" href="logout.php">Sair da conta</a>
+<h1>Alunos Cadastrados</h1>
+
+
+Nome: carla | ra: 12354687899 | placa: 123455gcs
+Nome:  | ra:  | placa: 
+Nome: alma | ra: 45789152143 | placa: hgty2514
+Nome:  | ra:  | placa: 
